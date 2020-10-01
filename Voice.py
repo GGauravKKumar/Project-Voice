@@ -1,11 +1,11 @@
 import subprocess
 import wolframalpha
 import wikiquote
-import pyttsx3
+import pyttsx3 #Python Text to Speech Application
 import json
 import speech_recognition as sr
 import datetime
-import wikipedia
+import wikipedia  #Wikipedia Informatiom
 import webbrowser
 import os
 import winshell
